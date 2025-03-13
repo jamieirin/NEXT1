@@ -1,0 +1,22 @@
+.image {
+    border-radius: 50%;
+    border-color: black;
+    object-fit: cover;
+    width:50px;
+    height: 50px;
+}
+
+.namebox{
+    display: flex;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: aqua;
+}
+
+.textbox{ 
+    display:flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: blue;
+}
+

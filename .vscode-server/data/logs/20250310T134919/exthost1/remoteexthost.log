@@ -1,0 +1,10 @@
+2025-03-10 13:49:21.404 [info] Extension host with pid 512 started
+2025-03-10 13:49:21.476 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-10 13:49:21.620 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-10 13:49:21.620 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-10 13:49:22.142 [info] Eager extensions activated
+2025-03-10 13:49:22.142 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 13:49:22.143 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 13:49:22.143 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 13:49:26.566 [info] Extension host terminating: received terminate message from renderer
+2025-03-10 13:49:26.607 [info] Extension host with pid 512 exiting with code 0
