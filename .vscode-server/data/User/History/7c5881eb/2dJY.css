@@ -1,0 +1,32 @@
+.box {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.box1 {
+    background-color: hsl(341, 75%, 69%);
+    position: absolute;
+    z-index:4;
+    top: 90px;
+    left: 90px;
+}
+.box2 {
+    background-color: #eaeb73;
+    position: absolute;
+    z-index:3;
+    top: 60px;
+    left: 60px;
+}
+.box3 {
+    background-color: #77eb73;
+    z-index:2;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+.box4 {
+    background-color: #73bbea;
+    z-index:1;
+    position: relative;
+}

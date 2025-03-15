@@ -1,0 +1,19 @@
+.innerBox {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border-radius: 20px;
+    position: absolute;
+    z-index: 1;
+}
+
+.outerBox {
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    border-radius: 20px;
+    position:absolute;
+    z-index:2;
+    top: 50px;
+    left:50px;
+}

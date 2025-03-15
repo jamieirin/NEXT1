@@ -1,0 +1,15 @@
+2025-03-13 21:55:33.576 [info] [main] 로그 수준: Info
+2025-03-13 21:55:33.576 [info] [main] "git"에서 찾은 git 유효성을 검사하는 중
+2025-03-13 21:55:33.576 [info] [main] "2.43.0"에서 git "git"을(를) 사용하는 중
+2025-03-13 21:55:33.576 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-13 21:55:33.576 [info] > git rev-parse --show-toplevel [11ms]
+2025-03-13 21:55:33.576 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-13 21:55:33.576 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-13 21:55:34.007 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-13 21:55:34.008 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-13 21:55:36.215 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-13 21:55:36.215 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-13 21:55:41.068 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-13 21:55:41.069 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-13 21:55:44.442 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-13 21:55:44.442 [info] fatal: not a git repository (or any of the parent directories): .git

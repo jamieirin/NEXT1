@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: auto;
+    }
+    .header { grid-area: header; background: lightblue; }
+    .footer { grid-area: footer; background: lightgray; }
+    .main { grid-area: main; background: white; }
+    .left { grid-area: left; background: lightcoral; }
+    .right { grid-area: right; background: lightgreen; }
+    
+    @media (min-width: 1025px) and (max-width: 1024px){.container{/*df*/}}
+        

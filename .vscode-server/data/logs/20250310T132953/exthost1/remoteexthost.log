@@ -1,0 +1,10 @@
+2025-03-10 13:29:54.897 [info] Extension host with pid 502 started
+2025-03-10 13:29:55.074 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-10 13:29:55.234 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-10 13:29:55.235 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-10 13:29:55.643 [info] Eager extensions activated
+2025-03-10 13:29:55.644 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 13:29:55.644 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 13:29:55.644 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 13:30:10.770 [info] Extension host terminating: received terminate message from renderer
+2025-03-10 13:30:10.794 [info] Extension host with pid 502 exiting with code 0
