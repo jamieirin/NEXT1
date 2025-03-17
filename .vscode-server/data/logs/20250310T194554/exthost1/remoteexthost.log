@@ -1,0 +1,15 @@
+2025-03-10 19:45:56.446 [info] Extension host with pid 501 started
+2025-03-10 19:45:56.466 [info] Lock '/home/jamie/.vscode-server/data/User/workspaceStorage/941b0dd76672524364e91a4b784113c7/vscode.lock': Lock acquired.
+2025-03-10 19:45:56.516 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-10 19:45:56.520 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-03-10 19:45:56.977 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-10 19:45:57.086 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-10 19:45:57.086 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-10 19:45:57.286 [info] Eager extensions activated
+2025-03-10 19:45:57.287 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 19:45:57.287 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 19:45:57.287 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 19:46:11.129 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-03-10 19:46:16.992 [info] Extension host terminating: received terminate message from renderer
+2025-03-10 19:46:16.992 [info] Lock '/home/jamie/.vscode-server/data/User/workspaceStorage/941b0dd76672524364e91a4b784113c7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-03-10 19:46:17.031 [info] Extension host with pid 501 exiting with code 0

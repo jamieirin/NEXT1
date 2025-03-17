@@ -1,0 +1,37 @@
+2025-03-13 21:55:27.388 [info] 
+
+
+
+
+2025-03-13 21:55:27.409 [info] Extension host agent started.
+2025-03-13 21:55:27.614 [info] [127.0.0.1][8975418d][ManagementConnection] New connection established.
+2025-03-13 21:55:28.929 [info] [127.0.0.1][00cc0ae8][ExtensionHostConnection] New connection established.
+2025-03-13 21:55:29.030 [info] [127.0.0.1][00cc0ae8][ExtensionHostConnection] <2772> Launched Extension Host Process.
+2025-03-13 21:55:29.140 [info] [127.0.0.1][00cc0ae8][ExtensionHostConnection] <2772><stderr> Error reading NLS messages file /home/jamie/.vscode-server/data/clp/3da914fc43511cc48dd8d8c1aa11a704.ko/6609ac3d66f4eade5cf376d1cb76f13985724bcb/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/jamie/.vscode-server/data/clp/3da914fc43511cc48dd8d8c1aa11a704.ko/6609ac3d66f4eade5cf376d1cb76f13985724bcb/nls.messages.json'
+
+2025-03-13 21:55:34.340 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+2025-03-13 21:55:34.341 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+2025-03-13 21:55:34.891 [info] Installing extension: ms-ceintl.vscode-language-pack-ko {"productVersion":{"version":"1.98.0","date":"2025-03-04T21:06:18.612Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"profileLocation":{"$mid":1,"fsPath":"/home/jamie/.vscode-server/extensions/extensions.json","external":"file:///home/jamie/.vscode-server/extensions/extensions.json","path":"/home/jamie/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-03-13 21:55:34.898 [info] Extension is already requested to install ms-ceintl.vscode-language-pack-ko file:///home/jamie/.vscode-server/extensions/extensions.json
+2025-03-13 21:55:35.090 [info] Getting Manifest... mhutchie.git-graph
+2025-03-13 21:55:35.164 [info] Installing extension: mhutchie.git-graph {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jamie/.vscode-server/extensions/extensions.json","external":"file:///home/jamie/.vscode-server/extensions/extensions.json","path":"/home/jamie/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.98.0","date":"2025-03-04T21:06:18.612Z"}}
+2025-03-13 21:55:40.356 [info] Extension signature verification result for mhutchie.git-graph: Success. Internal Code: 0. Executed: true. Duration: 4658ms.
+2025-03-13 21:55:40.680 [info] Extracted extension to file:///home/jamie/.vscode-server/extensions/mhutchie.git-graph-1.30.0: mhutchie.git-graph
+2025-03-13 21:55:40.712 [info] Renamed to /home/jamie/.vscode-server/extensions/mhutchie.git-graph-1.30.0
+2025-03-13 21:55:40.748 [info] Extension installed successfully: mhutchie.git-graph file:///home/jamie/.vscode-server/extensions/extensions.json
+2025-03-13 21:55:41.265 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ko: Success. Internal Code: 0. Executed: true. Duration: 5857ms.
+2025-03-13 21:55:41.759 [info] Extracted extension to file:///home/jamie/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.98.2025031209: ms-ceintl.vscode-language-pack-ko
+2025-03-13 21:55:41.790 [info] Renamed to /home/jamie/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.98.2025031209
+2025-03-13 21:55:41.814 [info] Marked extension as removed ms-ceintl.vscode-language-pack-ko-1.98.2025030509
+2025-03-13 21:55:41.816 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+2025-03-13 21:55:41.868 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko file:///home/jamie/.vscode-server/extensions/extensions.json
+2025-03-13 21:55:42.932 [info] Downloaded extension to file:///home/jamie/.vscode-server/data/CachedExtensionVSIXs/fac9ba3b-f13d-470a-a19f-ebd893a1f822
+2025-03-13 21:55:42.939 [info] Installing extension: ms-ceintl.vscode-language-pack-ko {"productVersion":{"version":"1.98.0","date":"2025-03-04T21:06:18.612Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"profileLocation":{"$mid":1,"fsPath":"/home/jamie/.vscode-server/extensions/extensions.json","external":"file:///home/jamie/.vscode-server/extensions/extensions.json","path":"/home/jamie/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-03-13 21:55:42.940 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-ko
+2025-03-13 21:55:42.953 [info] Deleted existing extension from disk ms-ceintl.vscode-language-pack-ko /home/jamie/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.98.2025031209
+2025-03-13 21:55:43.189 [info] Extracted extension to file:///home/jamie/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.98.2025031209: ms-ceintl.vscode-language-pack-ko
+2025-03-13 21:55:43.206 [info] Renamed to /home/jamie/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.98.2025031209
+2025-03-13 21:55:43.224 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+2025-03-13 21:55:43.259 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko file:///home/jamie/.vscode-server/extensions/extensions.json
+2025-03-13 21:55:56.898 [info] [127.0.0.1][8975418d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-13 21:55:57.035 [info] [127.0.0.1][00cc0ae8][ExtensionHostConnection] <2772> Extension Host Process exited with code: 0, signal: null.

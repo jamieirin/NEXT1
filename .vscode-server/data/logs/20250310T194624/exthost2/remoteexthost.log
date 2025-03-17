@@ -1,0 +1,16 @@
+2025-03-10 19:46:39.931 [info] Extension host with pid 866 started
+2025-03-10 19:46:39.946 [info] Lock '/home/jamie/.vscode-server/data/User/workspaceStorage/88d0e32a54527ba3e39c59b4fa4d86b9/vscode.lock': Lock acquired.
+2025-03-10 19:46:40.010 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-10 19:46:40.145 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-10 19:46:40.145 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-10 19:46:40.449 [info] Eager extensions activated
+2025-03-10 19:46:40.449 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 19:46:40.449 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 19:46:40.449 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-03-10 19:46:49.954 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-10 19:47:02.321 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-03-10 19:47:10.081 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-03-10 19:50:23.610 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-03-10 21:44:06.209 [info] Extension host terminating: received terminate message from renderer
+2025-03-10 21:44:06.211 [info] Lock '/home/jamie/.vscode-server/data/User/workspaceStorage/88d0e32a54527ba3e39c59b4fa4d86b9/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-03-10 21:44:06.281 [info] Extension host with pid 866 exiting with code 0

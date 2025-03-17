@@ -1,0 +1,5 @@
+[user]
+	name = Jamie
+	email = jamieirin@gmail.com
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/<jamieirin>/bin/git-credential-manager.exe
